@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I am Tyler Ivie
 
 <!--
 **tivie001/tivie001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](/assets/nodeJS.png)
+![GitHub Header of Me](https://github.com/[tivie001]/[tivie001]/blob/[master]/image.jpg?raw=true)
 
 Here are some ideas to get you started:
 
