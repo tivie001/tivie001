@@ -3,7 +3,7 @@
 <!--
 **tivie001/tivie001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](/assets/nodeJS.png)
-![GitHub Header of Me](https://github.com/[tivie001]/[tivie001]/blob/[master]/image.jpg?raw=true)
+![GitHub Header of Me](/gitHub-headerV1.png?raw=true)
 
 Here are some ideas to get you started:
 
