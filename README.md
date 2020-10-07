@@ -1,4 +1,4 @@
-## Hi, I am Tyler Ivie
+## Hi, I am Tyler Ivie :herb:
 ![GitHub Header of Me](/gitHub-headerV3.png?raw=true)
 
 
@@ -6,8 +6,6 @@
 > -Greenbook
 
 Hello, I'm Tyler, a Web Developer, Creator, and UX Designer based out of Utah — I create and design websites for all of your needs, dreams, & all in-between. I have than 5 years of experience creating websites, developing software, and working with clientele to structure a site specific to their needs without compromising usability & multi-device support.
-
-Here are some ideas to get you started:
 
 <!--
 **tivie001/tivie001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
