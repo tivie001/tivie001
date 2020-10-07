@@ -5,7 +5,8 @@
 > “The world is full of lonely people afraid to make the first move.”
 > -Greenbook
 
-Hello, I'm Tyler, a Web Developer, Creator, and UX Designer based out of Utah — I create and design websites for all of your needs, dreams, & all in-between. I have than 5 years of experience creating websites, developing software, and working with clientele to structure a site specific to their needs without compromising usability & multi-device support.
+Hello, I'm Tyler, a Web Developer, Creator, and UX Designer based out of Utah — I create and design websites for all of your needs, dreams, & all in-between. I have than 5 years of experience creating websites, developing software, and working with clientele to structure a site specific to their needs without compromising usability & multi-device support. Check out my portfolio here on GitHub and my website: http://iviedesigns.com/
+
 
 <!--
 **tivie001/tivie001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
