@@ -1,5 +1,4 @@
 ## Hi, I am Tyler Ivie :herb:
-![GitHub Header of Me](/gitHub-headerV3.png?raw=true)
 
 
 > “The world is full of lonely people afraid to make the first move.”
