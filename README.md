@@ -4,7 +4,7 @@
 > “The world is full of lonely people afraid to make the first move.”
 > - Greenbook
 
-Hello, I'm Tyler, a Web Developer out of Utah — I've developed software for various fintech companies and a part-time disc golfer that is need of an app for him and his community.
+Hello, I'm Tyler, a Web Developer out of Utah — I've developed software for various fintech companies and a part-time disc golfer that is in need of an app for him and his community.
 
 
 <!--
